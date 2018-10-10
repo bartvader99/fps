@@ -1,0 +1,1164 @@
+﻿Log file open, 10/10/18 17:13:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: fps
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202364
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.265s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: G:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.10-15.13.30:261][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.10-15.13.30:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.10-15.13.30:290][  0]LogHAL: Display: Platform has ~ 16 GB [17121157120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.10-15.13.30:290][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.10-15.13.30:290][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.10-15.13.30:307][  0]LogInit: Computer: BARTVADER89
+[2018.10.10-15.13.30:307][  0]LogInit: User: bartvader
+[2018.10.10-15.13.30:307][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.10-15.13.30:307][  0]LogInit: High frequency timer resolution =3.125009 MHz
+[2018.10.10-15.13.30:308][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.10-15.13.30:308][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.10-15.13.30:308][  0]LogMemory: Process Physical Memory: 100.24 MB used, 100.24 MB peak
+[2018.10.10-15.13.30:308][  0]LogMemory: Process Virtual Memory: 89.71 MB used, 89.71 MB peak
+[2018.10.10-15.13.30:308][  0]LogMemory: Physical Memory: 4200.00 MB used,  12128.00 MB free, 16328.01 MB total
+[2018.10.10-15.13.30:308][  0]LogMemory: Virtual Memory: 4650.92 MB used,  12128.00 MB free, 134217728.00 MB total
+[2018.10.10-15.13.30:327][  0]LogInit: Using OS detected language (en-US).
+[2018.10.10-15.13.30:327][  0]LogInit: Using OS detected locale (pl-PL).
+[2018.10.10-15.13.30:327][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.10-15.13.30:769][  0]LogStreaming: Display: Took  0.443s to InitEngineTextLocalization.
+[2018.10.10-15.13.30:769][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.10-15.13.30:927][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.10-15.13.30:927][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.10-15.13.35:163][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.10-15.13.35:163][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.10-15.13.35:226][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.10.10-15.13.35:226][  0]LogD3D11RHI:       4058/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.10-15.13.35:229][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.10-15.13.35:229][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.10-15.13.35:229][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.10-15.13.35:234][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.10-15.13.35:234][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.10-15.13.35:234][  0]LogWindows: EnumDisplayDevices:
+[2018.10.10-15.13.35:234][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.10.10-15.13.35:234][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.10.10-15.13.35:235][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.10.10-15.13.35:235][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.10.10-15.13.35:235][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.10-15.13.35:235][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.10.10-15.13.35:235][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.10.10-15.13.35:235][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.10.10-15.13.35:235][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.10.10-15.13.35:261][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.10-15.13.35:299][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.10-15.13.35:348][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Intermediate/Shaders/WorkingDirectory/5288/).
+[2018.10.10-15.13.35:348][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bartvader/AppData/Local/Temp/UnrealShaderWorkingDir/DD4E1E9E4BED490102247DBBDF9DD269/'.
+[2018.10.10-15.13.35:761][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.10-15.13.35:777][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.10-15.13.35:790][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.10-15.13.35:803][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.10-15.13.35:838][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.10-15.13.35:851][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.10-15.13.35:864][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.10-15.13.35:877][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.10-15.13.35:884][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:973][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-15.13.35:974][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.10-15.13.36:070][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.10-15.13.36:070][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.10-15.13.36:094][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.10-15.13.36:094][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.10-15.13.36:106][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.10-15.13.36:118][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.10-15.13.36:131][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.10-15.13.36:158][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.10-15.13.36:168][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.10-15.13.36:168][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.10-15.13.36:249][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.10-15.13.36:249][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.10-15.13.36:249][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.10-15.13.37:903][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.10-15.13.38:477][  0]LogDerivedDataCache: Loaded boot cache 0.57s 87MB C:/Users/bartvader/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.10-15.13.38:478][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bartvader/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.10-15.13.38:478][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.10-15.13.38:478][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.10-15.13.38:478][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.10-15.13.38:478][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.10-15.13.38:495][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.10-15.13.38:508][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bartvader/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.10-15.13.38:508][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.10-15.13.38:508][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.10-15.13.38:526][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.10-15.13.38:527][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.10-15.13.38:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.10-15.13.40:261][  0]LogAssetRegistry: FAssetRegistry took 0.0310 seconds to start up
+[2018.10.10-15.13.40:565][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.10-15.13.40:778][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.10-15.13.40:782][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.10-15.13.40:782][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.10-15.13.40:782][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.10-15.13.40:782][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.10-15.13.40:802][  0]LogNetVersion: fps 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 462728196)
+[2018.10.10-15.13.41:543][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.092722 seconds
+[2018.10.10-15.13.41:550][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.10-15.13.41:550][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.10-15.13.41:550][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.10-15.14.14:544][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.10-15.14.14:566][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.10-15.14.14:892][  0]SourceControl: Source control is disabled
+[2018.10.10-15.14.14:892][  0]SourceControl: Source control is disabled
+[2018.10.10-15.14.14:893][  0]SourceControl: Source control is disabled
+[2018.10.10-15.14.14:894][  0]SourceControl: Source control is disabled
+[2018.10.10-15.14.15:142][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.10-15.14.15:207][  0]LogOcInput: OculusInput pre-init called
+[2018.10.10-15.14.15:326][  0]LogEngine: Initializing Engine...
+[2018.10.10-15.14.15:327][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.10-15.14.15:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.10-15.14.15:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.10-15.14.15:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.10-15.14.15:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.10-15.14.15:540][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.10-15.14.15:552][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.10-15.14.15:571][  0]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-15.14.15:594][  0]LogInit: FAudioDevice initialized.
+[2018.10.10-15.14.15:595][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.10-15.14.17:560][  0]LogDerivedDataCache: Saved boot cache 1.97s 71MB C:/Users/bartvader/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.10-15.14.17:583][  0]LogInit: Texture streaming: Enabled
+[2018.10.10-15.14.17:649][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.10-15.14.17:661][  0]LogInit: Transaction tracking system initialized
+[2018.10.10-15.14.17:684][  0]BlueprintLog: New page: Editor Load
+[2018.10.10-15.14.17:892][  0]LocalizationService: Localization service is disabled
+[2018.10.10-15.14.18:221][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.10-15.14.18:221][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.10-15.14.18:221][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.10-15.14.18:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.10-15.14.18:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.10-15.14.18:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.10-15.14.18:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.10-15.14.18:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/' took 0.01s
+[2018.10.10-15.14.18:593][  0]SourceControl: Source control is disabled
+[2018.10.10-15.14.18:751][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 G:/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.10.10-15.14.18:949][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.10.10-15.14.19:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.10.10-15.14.19:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.10.10-15.14.19:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.10.10-15.14.19:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.10.10-15.14.19:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.10.10-15.14.19:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.10.10-15.14.19:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.10.10-15.14.19:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.10.10-15.14.19:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.10.10-15.14.19:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.10.10-15.14.19:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.10.10-15.14.19:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.10.10-15.14.19:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.10.10-15.14.19:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.10.10-15.14.19:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.10.10-15.14.19:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.10.10-15.14.19:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.10.10-15.14.19:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Fire01.uasset"
+[2018.10.10-15.14.19:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.10.10-15.14.19:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.10.10-15.14.19:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.10.10-15.14.19:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Light01.uasset"
+[2018.10.10-15.14.19:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.10.10-15.14.19:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Light02.uasset"
+[2018.10.10-15.14.19:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.10.10-15.14.19:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.10.10-15.14.19:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.10.10-15.14.19:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.10.10-15.14.19:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.10.10-15.14.19:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.10.10-15.14.19:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.10.10-15.14.19:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.10.10-15.14.19:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.10.10-15.14.20:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Steam01.uasset"
+[2018.10.10-15.14.20:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.10.10-15.14.20:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.10.10-15.14.20:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.10.10-15.14.20:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.10.10-15.14.20:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.10.10-15.14.20:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.10.10-15.14.20:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.10.10-15.14.20:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.10.10-15.14.20:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.10.10-15.14.20:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.10.10-15.14.20:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.10.10-15.14.20:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.10.10-15.14.20:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.10.10-15.14.20:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.10.10-15.14.20:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.10.10-15.14.20:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.10.10-15.14.20:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.10.10-15.14.22:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.10.10-15.14.22:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.10.10-15.14.22:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.10.10-15.14.22:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.10.10-15.14.22:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.10.10-15.14.22:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Maps/StarterMap.umap"
+[2018.10.10-15.14.23:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.10.10-15.14.23:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.10.10-15.14.23:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.10.10-15.14.23:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.10.10-15.14.23:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.10.10-15.14.23:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.10.10-15.14.23:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.10.10-15.14.23:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.10.10-15.14.23:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.10.10-15.14.23:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.10.10-15.14.23:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.10.10-15.14.23:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.10.10-15.14.23:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.10.10-15.14.23:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.10.10-15.14.23:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.10.10-15.14.23:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.10.10-15.14.23:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.10.10-15.14.23:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.10.10-15.14.23:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.10.10-15.14.23:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.10.10-15.14.23:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.10.10-15.14.23:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.10.10-15.14.23:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.10.10-15.14.23:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.10.10-15.14.23:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.10.10-15.14.23:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.10.10-15.14.23:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.10.10-15.14.23:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.10.10-15.14.23:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.10.10-15.14.23:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.10.10-15.14.23:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.10.10-15.14.23:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.10.10-15.14.23:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.10.10-15.14.23:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.10.10-15.14.23:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.10.10-15.14.23:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.10.10-15.14.23:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.10.10-15.14.23:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.10.10-15.14.23:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.10.10-15.14.23:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.10.10-15.14.23:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.10.10-15.14.23:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.10.10-15.14.23:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.10.10-15.14.23:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.10.10-15.14.24:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.10.10-15.14.24:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.10.10-15.14.24:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.10.10-15.14.24:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.10.10-15.14.24:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.10.10-15.14.24:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.10.10-15.14.24:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.10.10-15.14.24:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.10.10-15.14.24:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.10.10-15.14.24:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.10.10-15.14.24:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.10.10-15.14.24:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.10.10-15.14.24:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.10.10-15.14.24:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.10.10-15.14.24:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.10.10-15.14.24:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.10.10-15.14.24:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.10.10-15.14.24:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.10.10-15.14.24:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.10.10-15.14.24:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.10.10-15.14.24:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.10.10-15.14.24:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Door.uasset"
+[2018.10.10-15.14.24:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.10.10-15.14.24:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.10.10-15.14.24:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.10.10-15.14.24:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.10.10-15.14.24:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.10.10-15.14.24:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.10.10-15.14.24:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.10.10-15.14.24:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.10.10-15.14.24:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.10.10-15.14.24:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.10.10-15.14.24:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.10.10-15.14.25:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.10.10-15.14.25:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.10.10-15.14.25:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.10.10-15.14.25:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.10.10-15.14.25:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.10.10-15.14.25:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.10.10-15.14.25:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.10.10-15.14.25:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.10.10-15.14.25:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.10.10-15.14.25:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.10.10-15.14.25:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.10.10-15.14.25:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.10.10-15.14.25:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.10.10-15.14.25:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.10.10-15.14.25:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.10.10-15.14.25:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.10.10-15.14.25:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.10.10-15.14.25:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.10.10-15.14.25:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.10.10-15.14.25:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.10.10-15.14.25:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.10.10-15.14.25:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.10.10-15.14.25:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.10.10-15.14.25:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.10.10-15.14.25:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.10.10-15.14.25:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.10.10-15.14.25:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.10.10-15.14.25:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.10.10-15.14.25:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.10.10-15.14.25:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.10.10-15.14.27:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.10.10-15.14.27:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.10.10-15.14.27:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.10.10-15.14.27:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.10.10-15.14.27:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.10.10-15.14.28:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.10.10-15.14.28:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.10.10-15.14.28:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.10.10-15.14.29:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.10.10-15.14.29:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.10.10-15.14.29:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.10.10-15.14.29:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.10.10-15.14.30:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.10.10-15.14.30:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.10.10-15.14.30:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.10.10-15.14.30:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.10.10-15.14.30:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.10.10-15.14.30:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.10.10-15.14.30:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.10.10-15.14.31:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.10.10-15.14.31:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.10.10-15.14.31:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.10.10-15.14.31:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.10.10-15.14.31:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.10.10-15.14.31:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.10.10-15.14.31:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.10.10-15.14.32:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.10.10-15.14.32:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.10.10-15.14.32:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.10.10-15.14.32:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.10.10-15.14.32:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.10.10-15.14.33:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.10.10-15.14.33:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.10.10-15.14.34:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.10.10-15.14.34:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.10.10-15.14.35:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.10.10-15.14.35:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.10.10-15.14.36:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.10.10-15.14.37:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.10.10-15.14.37:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.10.10-15.14.37:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.10.10-15.14.38:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.10.10-15.14.38:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.10.10-15.14.38:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.10.10-15.14.38:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.10.10-15.14.38:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.10.10-15.14.38:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.10.10-15.14.38:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.10.10-15.14.38:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.10.10-15.14.38:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.10.10-15.14.39:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.10.10-15.14.39:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.10.10-15.14.40:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.10.10-15.14.40:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.10.10-15.14.41:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.10.10-15.14.44:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.10.10-15.14.44:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.10.10-15.14.44:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.10.10-15.14.44:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.10.10-15.14.45:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.10.10-15.14.45:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.10.10-15.14.46:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.10.10-15.14.46:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.10.10-15.14.46:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.10.10-15.14.47:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.10.10-15.14.47:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.10.10-15.14.47:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.10.10-15.14.48:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.10.10-15.14.48:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.10.10-15.14.48:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.10.10-15.14.48:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.10.10-15.14.49:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.10.10-15.14.49:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.10.10-15.14.49:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.10.10-15.14.49:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.10.10-15.14.50:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.10.10-15.14.50:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.10.10-15.14.50:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.10.10-15.14.51:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.10.10-15.14.51:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.10.10-15.14.51:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.10.10-15.14.51:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.10.10-15.14.51:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.10.10-15.14.51:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.10.10-15.14.51:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.10.10-15.14.51:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.10.10-15.14.51:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.10.10-15.14.51:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.10.10-15.14.51:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.10.10-15.14.51:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.10.10-15.14.52:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.10.10-15.14.52:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.10.10-15.14.52:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.10.10-15.14.52:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.10.10-15.14.52:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.10.10-15.14.52:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.10.10-15.14.52:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.10.10-15.14.52:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.10.10-15.14.52:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.10.10-15.14.52:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.10.10-15.14.52:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.10.10-15.14.53:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.10.10-15.14.53:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.10.10-15.14.53:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.10.10-15.14.53:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.10.10-15.14.53:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.10.10-15.14.53:955][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.10.10-15.14.54:035][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.10.10-15.14.54:936][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.10.10-15.14.55:975][  0]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Floor_400x400FA9CD5BE4E0C73AF3E05A5B4851D3EDB.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.10.10-15.14.55:988][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.10.10-15.14.55:991][  0]Cmd: MAP LOAD FILE="C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.10-15.14.56:658][  0]LightingResults: New page: Lighting Build
+[2018.10.10-15.14.56:661][  0]MapCheck: New page: Map Check
+[2018.10.10-15.14.56:661][  0]LightingResults: New page: Lighting Build
+[2018.10.10-15.15.08:238][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-15.15.08:249][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.10-15.15.08:276][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.10-15.15.08:340][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63,631ms to complete.
+[2018.10.10-15.15.08:340][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 12.349
+[2018.10.10-15.15.08:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.15.08:558][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.15.08:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.15.08:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.15.08:584][  0]LogCollectionManager: Loaded 0 collections in 0.001720 seconds
+[2018.10.10-15.15.08:627][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Collections/' took 0.01s
+[2018.10.10-15.15.08:627][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/Developers/bartvader/Collections/' took 0.01s
+[2018.10.10-15.15.08:627][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/Collections/' took 0.01s
+[2018.10.10-15.15.08:627][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.10-15.15.08:638][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2572 classes and 603 folders.
+[2018.10.10-15.15.08:644][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.10-15.15.09:381][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.10.10-15.15.09:390][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.10-15.15.09:559][  0]LogSlate: Took 0.052861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.10-15.15.09:600][  0]LogSlate: Took 0.039687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.10-15.15.09:605][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.10-15.15.09:681][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.10-15.15.09:719][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.10-15.15.09:793][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.10-15.15.09:793][  0]LogLoad: (Engine Initialization) Total time: 103.37 seconds
+[2018.10.10-15.15.09:793][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.10-15.15.09:827][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.10-15.15.09:999][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-15.15.10:014][  1]LogAssetRegistry: Asset discovery search completed in 89.7751 seconds
+[2018.10.10-15.15.10:016][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.10-15.15.10:016][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.10.10-15.21.49:557][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-15.21.49:651][586]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.10-15.21.49:663][586]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.10.10-15.21.50:287][586]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.10.10-15.21.51:605][586]LogSlate: Took 0.038545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.10-15.21.51:951][587]LogSlate: Took 0.013844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.10-15.21.54:041][731]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.10.10-15.22.17:499][509]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.22.18:121][537]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.10.10-15.22.20:769][784]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.20:773][784]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.20:814][784]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.22:364][952]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.22:367][952]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.22:412][952]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.23:303][ 46]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.23:305][ 46]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.23:339][ 46]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2018.10.10-15.22.26:415][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-15.22.26:514][414]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.22.26:534][414]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.10.10-15.22.26:680][414]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0540,26] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 165 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.10.10-15.22.32:561][ 87]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.24.19:864][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-15.24.19:963][870]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.24.23:568][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2018.10.10-15.24.23:844][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2018.10.10-15.24.25:357][396]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube15)
+[2018.10.10-15.24.32:260][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2018.10.10-15.24.33:116][167]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube21)
+[2018.10.10-15.24.34:003][251]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube19)
+[2018.10.10-15.24.34:481][294]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube18)
+[2018.10.10-15.24.35:051][346]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube20)
+[2018.10.10-15.24.37:326][571]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BigWall)
+[2018.10.10-15.24.38:446][681]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube8)
+[2018.10.10-15.24.41:539][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube11)
+[2018.10.10-15.24.45:558][399]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube9)
+[2018.10.10-15.24.46:747][514]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube10)
+[2018.10.10-15.24.47:456][580]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BigWall2)
+[2018.10.10-15.24.48:504][681]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube14)
+[2018.10.10-15.24.49:789][810]Cmd: DELETE
+[2018.10.10-15.24.49:790][810]Cmd: ACTOR DELETE
+[2018.10.10-15.24.49:797][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:797][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:798][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:799][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:799][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:800][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:800][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:801][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:802][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:802][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:803][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:803][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:804][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:804][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.49:833][810]LogEditorActor: Deleted 14 Actors (0.043 secs)
+[2018.10.10-15.24.52:164][ 87]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube13)
+[2018.10.10-15.24.52:705][138]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube12)
+[2018.10.10-15.24.53:791][248]Cmd: DELETE
+[2018.10.10-15.24.53:791][248]Cmd: ACTOR DELETE
+[2018.10.10-15.24.53:794][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.53:795][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-15.24.53:823][248]LogEditorActor: Deleted 2 Actors (0.032 secs)
+[2018.10.10-15.25.32:680][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-15.25.32:898][887]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonExampleMap_Auto1E065172D44378D840782A1A2CFFBB39F.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.10.10-15.25.32:904][887]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.204
+[2018.10.10-15.25.32:904][887]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.204
+[2018.10.10-15.25.32:908][887]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.10.10-15.25.32:908][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.10.10-15.25.32:944][887]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonCharacter_Auto16C3D14FA4D039CBCE265AC961A2E2840.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2018.10.10-15.25.32:946][887]LogFileHelpers: Auto-saving content packages took 0.039
+[2018.10.10-15.25.35:836][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-15.25.36:096][236]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonExampleMap9E2DAF934FBCFC17BDEC75BC90DB7E41.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.10-15.25.37:534][236]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonExampleMap_BuiltDataC82FDF13481979EE064AE08B9E2774AA.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.10-15.28.24:885][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-15.32.55:647][408]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2018.10.10-15.35.08:082][274]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/NewWidgetBlueprint.NewWidgetBlueprint
+[2018.10.10-15.35.35:823][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.032
+[2018.10.10-15.35.35:825][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/NewWidgetBlueprint] ([1] browsable assets)...
+[2018.10.10-15.35.35:825][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/NewWidgetBlueprint]
+[2018.10.10-15.35.35:831][453]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/NewWidgetBlueprint_Auto2E4CEC449412CCF28019622B4BF72A253.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/NewWidgetBlueprint_Auto2.uasset'
+[2018.10.10-15.35.35:832][453]LogFileHelpers: Auto-saving content packages took 0.009
+[2018.10.10-15.37.23:241][601]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-15.38.37:275][842]LogSlate: Took 0.028155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.10-15.44.30:612][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-15.44.30:628][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.44.30:629][740]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.10-15.44.30:640][740]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.10.10-15.44.30:796][740]LogPlayLevel: [PlayLevel] Compiling NewWidgetBlueprint before play...
+[2018.10.10-15.44.30:967][740]LogPlayLevel: PlayLevel: Blueprint regeneration took 338 ms (2 blueprints)
+[2018.10.10-15.44.30:981][740]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 19:44:30)
+[2018.10.10-15.44.30:981][740]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-15.44.30:995][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014682s)
+[2018.10.10-15.44.30:996][740]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-15.44.30:997][740]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2018.10.10-15.44.30:997][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016082s)
+[2018.10.10-15.44.31:039][740]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-15.44.31:048][740]LogInit: FAudioDevice initialized.
+[2018.10.10-15.44.31:064][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.44.31:118][740]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-15.44.31:119][740]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-17.44.31
+[2018.10.10-15.44.31:120][740]LogWorld: Bringing up level for play took: 0.001450
+[2018.10.10-15.44.31:143][740]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.10-15.44.31:145][740]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,997
+[2018.10.10-15.44.31:145][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.44.31:209][740]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.10.10-15.44.33:454][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.44.33:454][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.44.33:462][  5]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-15.44.33:504][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-15.44.33:505][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.44.33:557][  6]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.10-15.44.36:812][391]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2018.10.10-15.44.37:464][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/NewWidgetBlueprint" FILE="C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/NewWidgetBlueprint.uasset" SILENT=true
+[2018.10.10-15.44.37:475][458]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/NewWidgetBlueprint13F5D5604D1106F10DB87CBADA67B41A.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/NewWidgetBlueprint.uasset'
+[2018.10.10-15.44.45:420][267]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2018.10.10-15.44.46:011][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/NewWidgetBlueprint" FILE="C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/NewWidgetBlueprint.uasset" SILENT=true
+[2018.10.10-15.44.46:022][307]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/NewWidgetBlueprintCE24368849F440EEFA49D699FF38E18D.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/NewWidgetBlueprint.uasset'
+[2018.10.10-15.44.47:552][463]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-15.44.47:579][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.44.47:579][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-15.44.47:579][463]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 19:44:47)
+[2018.10.10-15.44.47:579][463]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-15.44.47:590][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010793s)
+[2018.10.10-15.44.47:591][463]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-15.44.47:591][463]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.10.10-15.44.47:591][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011893s)
+[2018.10.10-15.44.47:633][463]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-15.44.47:641][463]LogInit: FAudioDevice initialized.
+[2018.10.10-15.44.47:655][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.44.47:694][463]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-15.44.47:696][463]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-17.44.47
+[2018.10.10-15.44.47:696][463]LogWorld: Bringing up level for play took: 0.001350
+[2018.10.10-15.44.47:710][463]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,438
+[2018.10.10-15.44.47:711][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.44.48:590][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.44.48:590][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.44.48:598][557]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-15.44.48:644][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-15.44.48:645][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.44.48:726][558]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.10-15.46.01:762][462]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2018.10.10-15.46.40:675][  1]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2018.10.10-15.49.04:979][571]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.10.10-15.49.07:308][835]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.10.10-15.49.07:318][835]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.10.10-15.49.28:838][385]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2018.10.10-15.49.59:579][993]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-15.49.59:595][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.49.59:595][993]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.10-15.49.59:599][993]LogPlayLevel: [PlayLevel] Compiling NewWidgetBlueprint before play...
+[2018.10.10-15.49.59:756][993]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2018.10.10-15.49.59:756][993]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 19:49:59)
+[2018.10.10-15.49.59:756][993]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-15.49.59:768][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011525s)
+[2018.10.10-15.49.59:769][993]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-15.49.59:769][993]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2018.10.10-15.49.59:769][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013134s)
+[2018.10.10-15.49.59:806][993]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-15.49.59:816][993]LogInit: FAudioDevice initialized.
+[2018.10.10-15.49.59:832][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.49.59:870][993]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-15.49.59:872][993]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-17.49.59
+[2018.10.10-15.49.59:873][993]LogWorld: Bringing up level for play took: 0.001218
+[2018.10.10-15.49.59:887][993]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,261
+[2018.10.10-15.49.59:888][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.50.02:074][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.50.02:074][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.50.02:082][247]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-15.50.02:123][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-15.50.02:124][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.50.02:174][249]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.10-15.50.54:238][273]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.50.54:946][330]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-15.50.54:971][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.50.54:971][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-15.50.54:971][330]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 19:50:54)
+[2018.10.10-15.50.54:971][330]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-15.50.54:983][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011567s)
+[2018.10.10-15.50.54:983][330]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-15.50.54:984][330]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2018.10.10-15.50.54:984][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012786s)
+[2018.10.10-15.50.55:026][330]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-15.50.55:035][330]LogInit: FAudioDevice initialized.
+[2018.10.10-15.50.55:052][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.50.55:087][330]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-15.50.55:088][330]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-17.50.55
+[2018.10.10-15.50.55:089][330]LogWorld: Bringing up level for play took: 0.001302
+[2018.10.10-15.50.55:104][330]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,955
+[2018.10.10-15.50.55:104][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.51.01:154][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.51.01:154][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.51.01:162][ 44]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-15.51.01:216][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-15.51.01:217][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.51.01:300][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.10.10-15.53.07:124][774]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.53.07:149][774]LogBlueprint: Error: [Compiler FirstPersonCharacter] The type of  Object  is undetermined.  Connect something to  Cast To NewWidgetBlueprint  to imply a specific type.
+[2018.10.10-15.53.07:149][774]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.10.10-15.53.07:311][774]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [2380,89] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 186 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.10.10-15.53.33:695][895]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.53.33:717][895]LogBlueprint: Warning: [Compiler FirstPersonCharacter] 'New Widget Blueprint' does not inherit from 'Camera Component' ( Cast To NewWidgetBlueprint  would always fail).
+[2018.10.10-15.53.33:882][895]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [2407,46] Compile of FirstPersonCharacter successful, but with 1 Warning(s) [in 186 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.10.10-15.54.31:626][675]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.54.31:649][675]LogBlueprint: Warning: [Compiler FirstPersonCharacter] 'New Widget Blueprint' does not inherit from 'Skeletal Mesh Component' ( Cast To NewWidgetBlueprint  would always fail).
+[2018.10.10-15.54.31:816][675]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [2465,39] Compile of FirstPersonCharacter successful, but with 1 Warning(s) [in 189 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.10.10-15.54.34:278][956]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-15.54.34:304][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.54.34:304][956]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.10-15.54.34:307][956]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.10.10-15.54.34:316][956]LogPlayLevel: [PlayLevel]   Compiling NewWidgetBlueprint as a dependent...
+[2018.10.10-15.54.34:321][956]LogBlueprint: Warning: [Compiler FirstPersonCharacter] 'New Widget Blueprint' does not inherit from 'Skeletal Mesh Component' ( Cast To NewWidgetBlueprint  would always fail).
+[2018.10.10-15.54.34:327][956]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [2467,91] Compile of FirstPersonCharacter successful, but with 1 Warning(s) [in 21 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.10.10-15.54.34:485][956]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (2 blueprints)
+[2018.10.10-15.54.34:485][956]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 19:54:34)
+[2018.10.10-15.54.34:485][956]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-15.54.34:498][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012849s)
+[2018.10.10-15.54.34:499][956]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-15.54.34:499][956]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2018.10.10-15.54.34:499][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014343s)
+[2018.10.10-15.54.34:535][956]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-15.54.34:544][956]LogInit: FAudioDevice initialized.
+[2018.10.10-15.54.34:559][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.54.34:597][956]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-15.54.34:598][956]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-17.54.34
+[2018.10.10-15.54.34:599][956]LogWorld: Bringing up level for play took: 0.001044
+[2018.10.10-15.54.34:613][956]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,465
+[2018.10.10-15.54.34:614][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.54.36:502][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.54.36:502][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.54.36:510][162]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-15.54.36:551][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-15.54.36:551][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.54.36:607][163]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.10-15.55.23:788][779]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.55.30:042][496]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-15.55.30:067][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.55.30:067][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-15.55.30:068][496]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 19:55:30)
+[2018.10.10-15.55.30:068][496]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-15.55.30:082][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014135s)
+[2018.10.10-15.55.30:083][496]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-15.55.30:083][496]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2018.10.10-15.55.30:083][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015355s)
+[2018.10.10-15.55.30:126][496]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-15.55.30:135][496]LogInit: FAudioDevice initialized.
+[2018.10.10-15.55.30:151][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.55.30:188][496]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-15.55.30:190][496]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-17.55.30
+[2018.10.10-15.55.30:190][496]LogWorld: Bringing up level for play took: 0.001028
+[2018.10.10-15.55.30:204][496]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,056
+[2018.10.10-15.55.30:204][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.55.32:653][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.55.32:654][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-15.55.32:661][779]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-15.55.32:713][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-15.55.32:714][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.55.32:800][780]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.10-15.55.38:344][427]LogEditorTransaction: Undo Delete current selection
+[2018.10.10-15.56.36:854][376]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonExampleMap_Auto381E32A484D302622C0440085A830B7A0.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.10.10-15.56.36:859][376]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.207
+[2018.10.10-15.56.36:859][376]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.207
+[2018.10.10-15.56.36:861][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.10.10-15.56.36:861][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.10.10-15.56.36:900][376]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonCharacter_Auto3D99A24AB48C1DD6BD7868BB1DA3040A7.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2018.10.10-15.56.36:903][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/NewWidgetBlueprint] ([1] browsable assets)...
+[2018.10.10-15.56.36:903][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/NewWidgetBlueprint]
+[2018.10.10-15.56.36:915][376]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/NewWidgetBlueprint_Auto3C53026694C87BB8E3A13D5A7FC73F120.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/NewWidgetBlueprint_Auto3.uasset'
+[2018.10.10-15.56.36:916][376]LogFileHelpers: Auto-saving content packages took 0.056
+[2018.10.10-15.58.45:120][348]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-15.58.52:224][156]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-15.58.52:249][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-15.58.52:249][156]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.10-15.58.52:253][156]LogPlayLevel: [PlayLevel] Compiling NewWidgetBlueprint before play...
+[2018.10.10-15.58.52:256][156]LogBlueprint: Error: [Compiler NewWidgetBlueprint] The type of  Object  is undetermined.  Connect something to  Cast To FirstPersonCharacter  to imply a specific type.
+[2018.10.10-15.58.52:256][156]LogBlueprint: Error: [Compiler NewWidgetBlueprint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.10.10-15.58.52:257][156]LogBlueprint: Warning: [Compiler NewWidgetBlueprint] [2725,84] Compile of NewWidgetBlueprint failed. 2 Fatal Issue(s) 0 Warning(s) [in 5 ms] (/Game/FirstPersonBP/NewWidgetBlueprint.NewWidgetBlueprint)
+[2018.10.10-15.58.52:409][156]LogPlayLevel: PlayLevel: Blueprint regeneration took 158 ms (1 blueprints)
+[2018.10.10-15.58.52:409][156]BlueprintLog: Blueprint NewWidgetBlueprint failed to compile
+[2018.10.10-15.58.55:971][156]LogSlate: Window 'Message' being destroyed
+[2018.10.10-15.59.07:002][440]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2018.10.10-15.59.07:019][440]LogBlueprint: Warning: [Compiler NewWidgetBlueprint] 'First Person Character' does not inherit from 'Progress Bar' ( Cast To FirstPersonCharacter  would always fail).
+[2018.10.10-15.59.07:175][440]LogBlueprint: Warning: [Compiler NewWidgetBlueprint] [2740,75] Compile of NewWidgetBlueprint successful, but with 1 Warning(s) [in 172 ms] (/Game/FirstPersonBP/NewWidgetBlueprint.NewWidgetBlueprint)
+[2018.10.10-16.03.00:273][264]LogEditorTransaction: Undo Delete current selection
+[2018.10.10-16.03.35:505][344]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2018.10.10-16.03.37:091][511]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.03.37:101][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.03.37:101][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-16.03.37:101][511]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:03:37)
+[2018.10.10-16.03.37:101][511]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.03.37:113][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011625s)
+[2018.10.10-16.03.37:114][511]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.03.37:114][511]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2018.10.10-16.03.37:114][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012854s)
+[2018.10.10-16.03.37:155][511]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.03.37:165][511]LogInit: FAudioDevice initialized.
+[2018.10.10-16.03.37:181][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.03.37:220][511]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.03.37:222][511]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.03.37
+[2018.10.10-16.03.37:222][511]LogWorld: Bringing up level for play took: 0.001173
+[2018.10.10-16.03.37:236][511]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1,088
+[2018.10.10-16.03.37:237][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.03.42:361][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.03.42:361][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.03.42:369][118]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.03.42:414][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.03.42:415][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.03.42:467][119]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.10-16.03.51:297][119]LogSlate: Took 8.827147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.10.10-16.05.16:551][853]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-16.05.17:224][895]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonCharacter39AF32A0499F7D5D2EFBE395DC63C22A.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.10.10-16.06.10:759][363]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-16.06.11:687][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.06.11:714][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.06.11:715][442]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.10-16.06.11:718][442]LogPlayLevel: [PlayLevel] Compiling NewWidgetBlueprint before play...
+[2018.10.10-16.06.11:883][442]LogPlayLevel: PlayLevel: Blueprint regeneration took 168 ms (1 blueprints)
+[2018.10.10-16.06.11:883][442]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:06:11)
+[2018.10.10-16.06.11:883][442]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.06.11:896][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012512s)
+[2018.10.10-16.06.11:897][442]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.06.11:897][442]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.10.10-16.06.11:897][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013688s)
+[2018.10.10-16.06.11:940][442]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.06.11:949][442]LogInit: FAudioDevice initialized.
+[2018.10.10-16.06.11:965][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.06.12:000][442]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.06.12:002][442]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.06.12
+[2018.10.10-16.06.12:002][442]LogWorld: Bringing up level for play took: 0.001119
+[2018.10.10-16.06.12:016][442]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,132
+[2018.10.10-16.06.12:016][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.06.13:694][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.06.13:695][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.06.13:702][631]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.06.13:754][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.06.13:755][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.06.13:841][632]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.10-16.06.37:418][411]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-16.06.38:507][510]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.06.38:533][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.06.38:533][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-16.06.38:534][510]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:06:38)
+[2018.10.10-16.06.38:534][510]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.06.38:545][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010913s)
+[2018.10.10-16.06.38:546][510]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.06.38:546][510]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2018.10.10-16.06.38:546][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012095s)
+[2018.10.10-16.06.38:589][510]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.06.38:598][510]LogInit: FAudioDevice initialized.
+[2018.10.10-16.06.38:612][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.06.38:645][510]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.06.38:647][510]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.06.38
+[2018.10.10-16.06.38:647][510]LogWorld: Bringing up level for play took: 0.001178
+[2018.10.10-16.06.38:661][510]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,513
+[2018.10.10-16.06.38:662][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.06.41:959][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.06.41:959][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.06.41:967][894]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.06.42:023][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.06.42:024][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.06.42:113][895]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.10-16.07.50:496][607]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonExampleMap_Auto44D84B160441F9DDB18C0C68CA7270595.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.10.10-16.07.50:500][607]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.213
+[2018.10.10-16.07.50:500][607]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.213
+[2018.10.10-16.07.50:502][607]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.10.10-16.07.50:502][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.10.10-16.07.50:539][607]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonCharacter_Auto4D3B26F534B73B64F81E681A5FC72C9CC.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2018.10.10-16.07.50:542][607]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/NewWidgetBlueprint] ([1] browsable assets)...
+[2018.10.10-16.07.50:542][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/NewWidgetBlueprint]
+[2018.10.10-16.07.50:556][607]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/NewWidgetBlueprint_Auto491F0AE4C45FFDFB2076640B07E2BE7D9.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/Autosaves/Game/FirstPersonBP/NewWidgetBlueprint_Auto4.uasset'
+[2018.10.10-16.07.50:557][607]LogFileHelpers: Auto-saving content packages took 0.056
+[2018.10.10-16.08.41:473][677]LogEditorTransaction: Undo Add Component
+[2018.10.10-16.09.34:765][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.09.55:474][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-16.10.00:166][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-16.10.23:825][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.10.23:908][800]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-16.10.24:947][886]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.10.24:963][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.10.24:963][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-16.10.24:963][886]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:10:24)
+[2018.10.10-16.10.24:963][886]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.10.24:975][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011573s)
+[2018.10.10-16.10.24:976][886]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.10.24:976][886]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2018.10.10-16.10.24:976][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012767s)
+[2018.10.10-16.10.25:017][886]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.10.25:027][886]LogInit: FAudioDevice initialized.
+[2018.10.10-16.10.25:043][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.10.25:083][886]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.10.25:085][886]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.10.25
+[2018.10.10-16.10.25:085][886]LogWorld: Bringing up level for play took: 0.001316
+[2018.10.10-16.10.25:101][886]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,952
+[2018.10.10-16.10.25:101][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.10.45:475][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.10.45:476][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.10.45:484][298]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.10.45:524][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.10.45:525][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.10.45:614][299]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.10-16.10.59:729][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.11.05:656][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.11.10:399][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.11.13:710][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.11.13:801][631]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-16.11.14:493][685]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.11.14:508][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.11.14:508][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-16.11.14:508][685]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:11:14)
+[2018.10.10-16.11.14:508][685]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.11.14:519][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011259s)
+[2018.10.10-16.11.14:520][685]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.11.14:520][685]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.10.10-16.11.14:520][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012342s)
+[2018.10.10-16.11.14:561][685]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.11.14:570][685]LogInit: FAudioDevice initialized.
+[2018.10.10-16.11.14:586][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.11.14:627][685]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.11.14:629][685]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.11.14
+[2018.10.10-16.11.14:629][685]LogWorld: Bringing up level for play took: 0.001127
+[2018.10.10-16.11.14:643][685]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,495
+[2018.10.10-16.11.14:644][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.11.24:051][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.11.24:052][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.11.24:059][800]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.11.24:099][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.11.24:100][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.11.24:171][801]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.10-16.11.25:567][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.12.21:196][282]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-16.12.22:396][394]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.12.22:424][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.12.22:424][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-16.12.22:424][394]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:12:22)
+[2018.10.10-16.12.22:424][394]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.12.22:436][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012120s)
+[2018.10.10-16.12.22:437][394]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.12.22:437][394]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.10.10-16.12.22:437][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013369s)
+[2018.10.10-16.12.22:481][394]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.12.22:492][394]LogInit: FAudioDevice initialized.
+[2018.10.10-16.12.22:509][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.12.22:548][394]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.12.22:550][394]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.12.22
+[2018.10.10-16.12.22:550][394]LogWorld: Bringing up level for play took: 0.001283
+[2018.10.10-16.12.22:564][394]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,417
+[2018.10.10-16.12.22:565][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.12.26:479][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.12.26:480][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.12.26:488][847]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.12.26:544][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.12.26:545][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.12.26:637][848]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.10-16.12.47:889][296]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-16.12.48:641][354]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.12.48:667][354]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.12.48:667][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-16.12.48:667][354]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:12:48)
+[2018.10.10-16.12.48:667][354]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.12.48:677][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010351s)
+[2018.10.10-16.12.48:678][354]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.12.48:679][354]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.10.10-16.12.48:679][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011672s)
+[2018.10.10-16.12.48:722][354]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.12.48:730][354]LogInit: FAudioDevice initialized.
+[2018.10.10-16.12.48:745][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.12.48:780][354]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.12.48:782][354]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.12.48
+[2018.10.10-16.12.48:782][354]LogWorld: Bringing up level for play took: 0.001285
+[2018.10.10-16.12.48:796][354]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,648
+[2018.10.10-16.12.48:797][354]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.12.50:122][502]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] you are dead
+[2018.10.10-16.13.00:882][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.00:884][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.13.00:891][793]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.13.00:946][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.13.00:946][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.01:037][794]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.10.10-16.13.25:605][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.13.28:934][ 97]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.10.10-16.13.29:995][193]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.13.30:010][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.30:010][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-16.13.30:010][193]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:13:30)
+[2018.10.10-16.13.30:010][193]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.13.30:022][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011228s)
+[2018.10.10-16.13.30:023][193]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.13.30:023][193]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.10.10-16.13.30:023][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012422s)
+[2018.10.10-16.13.30:065][193]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.13.30:073][193]LogInit: FAudioDevice initialized.
+[2018.10.10-16.13.30:087][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.13.30:126][193]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.13.30:127][193]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.13.30
+[2018.10.10-16.13.30:128][193]LogWorld: Bringing up level for play took: 0.001192
+[2018.10.10-16.13.30:144][193]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,005
+[2018.10.10-16.13.30:144][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.32:550][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.32:551][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.13.32:559][469]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.13.32:596][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.13.32:597][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.32:672][470]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.10.10-16.13.35:601][819]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-16.13.35:611][819]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.35:611][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-16.13.35:611][819]PIE: New page: PIE session: FirstPersonExampleMap (10 paź 2018, 20:13:35)
+[2018.10.10-16.13.35:611][819]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.10-16.13.35:620][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009096s)
+[2018.10.10-16.13.35:621][819]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.10-16.13.35:621][819]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2018.10.10-16.13.35:621][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010256s)
+[2018.10.10-16.13.35:662][819]LogInit: XAudio2 using 'Speakers (3- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-16.13.35:670][819]LogInit: FAudioDevice initialized.
+[2018.10.10-16.13.35:685][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.13.35:722][819]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.10-16.13.35:724][819]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.10-18.13.35
+[2018.10.10-16.13.35:724][819]LogWorld: Bringing up level for play took: 0.001249
+[2018.10.10-16.13.35:741][819]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,407
+[2018.10.10-16.13.35:741][819]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.42:899][669]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] you are dead
+[2018.10.10-16.13.59:834][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.59:834][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.13.59:843][701]LogSlate: Window 'fps Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-16.13.59:883][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-16.13.59:884][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.10-16.13.59:964][702]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.10-16.15.18:996][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.15.32:574][723]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonExampleMap873A93F742EFC63B297695B1B771482F.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.10-16.15.32:588][723]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.314
+[2018.10.10-16.15.32:684][723]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/FirstPersonCharacterBCBFF3E043163630E3B9F9BAB554B1B9.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.10.10-16.15.32:691][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/NewWidgetBlueprint" FILE="C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/NewWidgetBlueprint.uasset" SILENT=true
+[2018.10.10-16.15.32:706][723]LogSavePackage: Moving 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Saved/NewWidgetBlueprint43819DAC40DDEBDFA42513A3DD8F1BBA.tmp' to 'C:/Users/bartvader/Documents/Unreal Projects/KUPA123/fps/fps/Content/FirstPersonBP/NewWidgetBlueprint.uasset'
+[2018.10.10-16.16.30:962][ 92]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2018.10.10-16.16.33:895][398]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
